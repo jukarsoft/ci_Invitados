@@ -1,0 +1,14 @@
+div.contenedor {
+	width: 500px;
+	padding: 20px;
+	border: 3px ridge grey;
+	border-radius:25px;
+	margin:auto;
+	background-color: yellow;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+label {width: 100px;display: inline-block;}
